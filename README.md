@@ -41,7 +41,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 
 ## 📖Contents 
-* 📖[Trending LLM/LMM Topics](#Trending-LLM-LMM-Topics)🔥🔥🔥
+* 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -59,8 +59,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
 * 📖[Position Embed/Others](#Others)
 
-### 📖Trending LLM/LMM Topics ([©️back👆🏻](#paperlist))  
-<div id="Trending-LLM-LMM-Topics"></div>  
+### 📖Trending LLM/VLM Topics ([©️back👆🏻](#paperlist))  
+<div id="Trending-LLM-VLM-Topics"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   

@@ -113,7 +113,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥[**MLC-LLM**]Universal LLM Deployment Engine with ML Compilation(@mlc-ai) | [[docs]](https://llm.mlc.ai/) | [[mlc-llm]](https://github.com/mlc-ai/mlc-llm) ![](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg?style=social)|⭐️⭐️ |
 |2023.08|🔥[**LightLLM**] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework(@ModelTC) | [[docs]](https://github.com/ModelTC/lightllm) | [[lightllm]](https://github.com/ModelTC/lightllm) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social)|⭐️⭐️ |
 |2023.03|🔥[**llama.cpp**] llama.cpp: Inference of Meta's LLaMA model (and others) in pure C/C++(@ggerganov) |[[docs]](https://github.com/ggerganov/llama.cpp) | [[llama.cpp]](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social)|⭐️⭐️ |
-
+|2024.02|🔥[**flashinfer**] FlashInfer: Kernel Library for LLM Serving(@flashinfer-ai) |[docs](https://flashinfer.ai/2024/02/02/cascade-inference.html)|[[flashinfer]](https://github.com/flashinfer-ai/flashinfer) ![](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social)|⭐️⭐️ |
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    

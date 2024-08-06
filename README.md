@@ -43,7 +43,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
-* 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
+* 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
 * 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
@@ -87,10 +87,10 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**Efficient LLMs**] Efficient Large Language Models: A Survey(@Ohio State University etc) | [[pdf]](https://arxiv.org/pdf/2312.03863.pdf)|[[Efficient-LLMs-Survey]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)  ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social) |⭐️⭐️ | 
 |2023.12|[**Serving Survey**] Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems(@Carnegie Mellon University) | [[pdf]](https://arxiv.org/pdf/2312.15234.pdf)|⚠️|⭐️⭐️ | 
 |2024.01|[Understanding LLMs] Understanding LLMs: A Comprehensive Overview from Training to Inference(@Shaanxi Normal University etc)| [[pdf]](https://arxiv.org/pdf/2401.02038.pdf) | ⚠️|⭐️⭐️ |   
-|2024.02|[LLM-Viewer] LLM Inference Unveiled: Survey and Roofline Model Insights(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2402.16363.pdf)|[[LLM-Viewer]](https://github.com/hahnyuan/LLM-Viewer)  ![](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer.svg?style=social) |⭐️⭐️ | 
+|2024.02|[LLM-Viewer] LLM Inference Unveiled: Survey and Roofline Model Insights(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2402.16363.pdf)|[[LLM-Viewer]](https://github.com/hahnyuan/LLM-Viewer)  ![](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer.svg?style=social) |⭐️⭐️ |  
 |2024.07|[**Internal Consistency & Self-Feedback**] Internal Consistency and Self-Feedback in Large Language Models: A Survey|[[pdf]](https://arxiv.org/pdf/2407.14507)| [[ICSF-Survey]](https://github.com/IAAR-Shanghai/ICSFSurvey)  ![](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey.svg?style=social) | ⭐️⭐️ |
 
-### 📖LLM Train/Inference Framework ([©️back👆🏻](#paperlist))  
+### 📖LLM Train/Inference Framework/Design ([©️back👆🏻](#paperlist))  
 <div id="LLM-Train-Inference-Framework"></div>  
 
 |Date|Title|Paper|Code|Recom|
@@ -114,6 +114,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.08|🔥[**LightLLM**] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework(@ModelTC) | [[docs]](https://github.com/ModelTC/lightllm) | [[lightllm]](https://github.com/ModelTC/lightllm) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social)|⭐️⭐️ |
 |2023.03|🔥[**llama.cpp**] llama.cpp: Inference of Meta's LLaMA model (and others) in pure C/C++(@ggerganov) |[[docs]](https://github.com/ggerganov/llama.cpp) | [[llama.cpp]](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social)|⭐️⭐️ |
 |2024.02|🔥[**flashinfer**] FlashInfer: Kernel Library for LLM Serving(@flashinfer-ai) |[[docs]](https://flashinfer.ai/2024/02/02/cascade-inference.html)|[[flashinfer]](https://github.com/flashinfer-ai/flashinfer) ![](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social)|⭐️⭐️ |
+|2024.06|🔥[**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)|⭐️⭐️ |  
+|2024.07|🔥[DynamoLLM] DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency(@Microsoft Azure Research)| [[pdf]](https://arxiv.org/pdf/2408.00741)|⚠️|⭐️ |         
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    

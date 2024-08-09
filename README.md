@@ -254,6 +254,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**LLMLingua**] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models(@Microsoft) | [[pdf]](https://arxiv.org/pdf/2310.05736.pdf)|[LLMLingua](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️⭐️ | 
 |2023.10|🔥🔥[**LongLLMLingua**] LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression(@Microsoft) | [[pdf]](https://arxiv.org/abs/2310.06839)|[LLMLingua](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️⭐️ |
 |2024.03|🔥[**LLMLingua-2**] LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression(@Microsoft) | [[pdf]](https://arxiv.org/pdf/2403.12968.pdf)|[LLMLingua series](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️ | 
+|2024.08|🔥🔥[**500xCompressor**] 500xCompressor: Generalized Prompt Compression for Large Language Models(@University of Cambridge) | [[pdf]](https://arxiv.org/pdf/2408.03094) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
 <div id="Long-Context-Attention-KVCache"></div>  
@@ -283,8 +284,6 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥🔥[**Quest**] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) | [[pdf]](https://arxiv.org/pdf/2406.10774)| [[Quest]](https://github.com/mit-han-lab/Quest) ![](https://img.shields.io/github/stars/mit-han-lab/Quest.svg?style=social) |⭐️⭐️ |
 |2024.07| 🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
 |2024.08| 🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |  
-
-
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  

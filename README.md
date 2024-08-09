@@ -240,6 +240,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥[MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung)|[[pdf]](https://arxiv.org/pdf/2406.09297)|[[pythia-mlkv]](https://github.com/zaydzuhri/pythia-mlkv) ![](https://img.shields.io/github/stars/zaydzuhri/pythia-mlkv.svg?style=social)|⭐️ | 
 |2024.07|🔥[ThinK] ThinK: Thinner Key Cache by Query-Driven Pruning(@Salesforce AI Research etc)|[[pdf]](https://arxiv.org/pdf/2407.21018)|⚠️|⭐️⭐️ |  
 |2024.07|🔥[Palu] Palu: Compressing KV-Cache with Low-Rank Projection(@nycu.edu.tw)|[[pdf]](https://arxiv.org/pdf/2407.21118)|[[Palu]](https://github.com/shadowpa0327/Palu) ![](https://img.shields.io/github/stars/shadowpa0327/Palu.svg?style=social)|⭐️⭐️ |  
+|2024.08|🔥[Zero-Delay QKV Compression] Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference(@University of Virginia)|[[pdf]](https://arxiv.org/pdf/2408.04107)|⚠️|⭐️⭐️ |  
+
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  

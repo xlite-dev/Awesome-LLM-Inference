@@ -380,6 +380,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.02|[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc)|[[pdf]](https://arxiv.org/pdf/2402.10076.pdf)|[[QUICK]](https://github.com/SqueezeBits/QUICK) ![](https://img.shields.io/github/stars/SqueezeBits/QUICK.svg?style=social)|⭐️⭐️ |
 |2024.02|[Tensor Parallel] TP-AWARE DEQUANTIZATION(@IBM T.J. Watson Research Center)|[[pdf]](https://arxiv.org/pdf/2402.04925.pdf)|⚠️|⭐️ | 
 |2024.07|🔥🔥[**flute**] Fast Matrix Multiplications for Lookup Table-Quantized LLMs(@mit.edu etc) | [[pdf]](https://arxiv.org/pdf/2407.10960)|[[flute]](https://github.com/HanGuo97/flute) ![](https://img.shields.io/github/stars/HanGuo97/flute.svg?style=social)|⭐️⭐️ |
+|2024.08|🔥🔥[**LUT TENSOR CORE**] LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration(@SJTU&PKU etc)|[[pdf]](https://arxiv.org/pdf/2408.06003)|⚠️|⭐️ | 
 
 ### 📖Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

@@ -323,6 +323,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥[Token Recycling] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling(@ir.hit.edu.cn etc) | [[pdf]](https://arxiv.org/pdf/2408.08696)|⚠️ |⭐️⭐️ |
 |2024.08|🔥[**Speculative Decoding**] Parallel Speculative Decoding with Adaptive Draft Length(@USTC etc)|[[pdf]](https://arxiv.org/pdf/2408.11850)|⚠️ |⭐️⭐️ |
 |2024.08|🔥[**FocusLLM**] FocusLLM: Scaling LLM’s Context by Parallel Decoding(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2408.11745)|[[FocusLLM]](https://github.com/leezythu/FocusLLM) ![](https://img.shields.io/github/stars/leezythu/FocusLLM.svg?style=social)|⭐️ |
+|2024.08|🔥[**MagicDec**] MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding(@CMU etc)|[[pdf]](https://arxiv.org/pdf/2408.11049)|[[MagicDec]](https://github.com/Infini-AI-Lab/MagicDec/) ![](https://img.shields.io/github/stars/Infini-AI-Lab/MagicDec.svg?style=social)|⭐️ |
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    

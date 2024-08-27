@@ -321,6 +321,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥[Multi-Token Speculative Decoding] Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference(@University of California, etc)| [[pdf]](https://arxiv.org/pdf/2404.09221)|⚠️ |⭐️⭐️ |
 |2024.08|🔥[Token Recycling] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling(@ir.hit.edu.cn etc) | [[pdf]](https://arxiv.org/pdf/2408.08696)|⚠️ |⭐️⭐️ |
 |2024.08|🔥[**Speculative Decoding**] Parallel Speculative Decoding with Adaptive Draft Length(@USTC etc)|[[pdf]](https://arxiv.org/pdf/2408.11850)|⚠️ |⭐️⭐️ |
+|2024.08|🔥[**FocusLLM**] FocusLLM: Scaling LLM’s Context by Parallel Decoding(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2408.11745)|[[FocusLLM]](https://github.com/leezythu/FocusLLM) ![](https://img.shields.io/github/stars/leezythu/FocusLLM.svg?style=social)|⭐️ |
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    

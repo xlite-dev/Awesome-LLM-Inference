@@ -116,7 +116,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.02|🔥[**flashinfer**] FlashInfer: Kernel Library for LLM Serving(@flashinfer-ai) |[[docs]](https://flashinfer.ai/2024/02/02/cascade-inference.html)|[[flashinfer]](https://github.com/flashinfer-ai/flashinfer) ![](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social)|⭐️⭐️ |
 |2024.06|🔥[**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)|⭐️⭐️ |  
 |2024.07|🔥[DynamoLLM] DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency(@Microsoft Azure Research)| [[pdf]](https://arxiv.org/pdf/2408.00741)|⚠️|⭐️ |   
-|2024.08|🔥[NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput(@University of Washington)| [[pdf]](https://arxiv.org/pdf/2408.12757)|⚠️|⭐️ |   
+|2024.08|🔥[NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput(@University of Washington)| [[pdf]](https://arxiv.org/pdf/2408.12757)|[[Nanoflow]](https://github.com/efeslab/Nanoflow) ![](https://img.shields.io/github/stars/efeslab/Nanoflow.svg?style=social)|⭐️⭐️ |  
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    

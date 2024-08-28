@@ -166,7 +166,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[I-LLM] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models(@Houmo AI)|[[pdf]](https://arxiv.org/pdf/2405.17849)|⚠️|⭐️ |
 |2024.06|🔥[OutlierTune] OutlierTune: Efficient Channel-Wise Quantization for Large Language Models(@Beijing University)|[[pdf]](https://arxiv.org/pdf/2406.18832)|⚠️|⭐️ |
 |2024.06|🔥[GPTQT] GPTQT: Quantize Large Language Models Twice to Push the Efficiency(@zju)|[[pdf]](https://arxiv.org/pdf/2407.02891)|⚠️|⭐️ |
-|2024.08|🔥[ABQ-LLM] ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models(@ByteDance)|[[pdf]](https://arxiv.org/pdf/2408.08554)|⚠️|⭐️ |
+|2024.08|🔥[ABQ-LLM] ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models(@ByteDance)|[[pdf]](https://arxiv.org/pdf/2408.08554)|[[ABQ-LLM]](https://github.com/bytedance/ABQ-LLM) ![](https://img.shields.io/github/stars/bytedance/ABQ-LLM.svg?style=social)|⭐️ |
 
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  

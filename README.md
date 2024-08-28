@@ -167,7 +167,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥[OutlierTune] OutlierTune: Efficient Channel-Wise Quantization for Large Language Models(@Beijing University)|[[pdf]](https://arxiv.org/pdf/2406.18832)|⚠️|⭐️ |
 |2024.06|🔥[GPTQT] GPTQT: Quantize Large Language Models Twice to Push the Efficiency(@zju)|[[pdf]](https://arxiv.org/pdf/2407.02891)|⚠️|⭐️ |
 |2024.08|🔥[ABQ-LLM] ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models(@ByteDance)|[[pdf]](https://arxiv.org/pdf/2408.08554)|[[ABQ-LLM]](https://github.com/bytedance/ABQ-LLM) ![](https://img.shields.io/github/stars/bytedance/ABQ-LLM.svg?style=social)|⭐️ |
-
+|2024.08|🔥[1-bit LLMs] Matmul or No Matmal in the Era of 1-bit LLMs(@University of South Carolina)|[[pdf]](https://arxiv.org/pdf/2408.11939)|⚠️|⭐️ |
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   

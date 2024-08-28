@@ -372,7 +372,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era(@Bo Peng etc) |[[pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️ |          
 |2023.12|🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces(@cs.cmu.edu etc) |[[pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️ |  
 |2024.06|🔥🔥[**RWKV-CLIP**] RWKV-CLIP: A Robust Vision-Language Representation Learner(@DeepGlint etc) |[[pdf]](https://arxiv.org/pdf/2406.06973)|[[RWKV-CLIP]](https://github.com/deepglint/RWKV-CLIP) ![](https://img.shields.io/github/stars/deepglint/RWKV-CLIP.svg?style=social)|⭐️⭐️ |  
-|2024.08| [Kraken] Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference(@Princeton) | [[pdf]](https://arxiv.org/pdf/2408.07802)|⚠️|⭐️ | 
+|2024.08|🔥🔥[Kraken] Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference(@Princeton) | [[pdf]](https://arxiv.org/pdf/2408.07802)|⚠️|⭐️ | 
+|2024.08|🔥🔥[**FLA**] FLA: A Triton-Based Library for Hardware-Efficient Implementations of Linear Attention Mechanism(@sustcsonglin)| [[docs]](https://github.com/sustcsonglin/flash-linear-attention) |[[flash-linear-attention]](https://github.com/sustcsonglin/flash-linear-attention) ![](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social)|⭐️⭐️ |     
 
 ### 📖GEMM/Tensor Cores/WMMA/Parallel ([©️back👆🏻](#paperlist))    
 <div id="GEMM-Tensor-Cores-WMMA"></div>  

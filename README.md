@@ -261,6 +261,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥[**LLMLingua-2**] LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression(@Microsoft) | [[pdf]](https://arxiv.org/pdf/2403.12968.pdf)|[LLMLingua series](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️ | 
 |2024.08|🔥🔥[**500xCompressor**] 500xCompressor: Generalized Prompt Compression for Large Language Models(@University of Cambridge) | [[pdf]](https://arxiv.org/pdf/2408.03094) | ⚠️ |⭐️⭐️ |  
 |2024.08|🔥🔥[**Eigen Attention**] Eigen Attention: Attention in Low-Rank Space for KV Cache Compression(@purdue.edu) | [[pdf]](https://arxiv.org/pdf/2408.05646) | ⚠️ |⭐️⭐️ |  
+|2024.09|🔥🔥[**Prompt Compression**] Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference(@Alterra AI)| [[pdf]](https://arxiv.org/pdf/2409.01227) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
 <div id="Long-Context-Attention-KVCache"></div>  

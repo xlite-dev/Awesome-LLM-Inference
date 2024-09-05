@@ -398,6 +398,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[**flute**] Fast Matrix Multiplications for Lookup Table-Quantized LLMs(@mit.edu etc) | [[pdf]](https://arxiv.org/pdf/2407.10960)|[[flute]](https://github.com/HanGuo97/flute) ![](https://img.shields.io/github/stars/HanGuo97/flute.svg?style=social)|⭐️⭐️ |
 |2024.08|🔥🔥[**LUT TENSOR CORE**] LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration(@SJTU&PKU etc)|[[pdf]](https://arxiv.org/pdf/2408.06003)|⚠️|⭐️ | 
 |2024.08|🔥🔥[**MARLIN**] MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models(@ISTA) | [[pdf]](https://arxiv.org/pdf/2408.11743)|[[marlin]](https://github.com/IST-DASLab/marlin) ![](https://img.shields.io/github/stars/IST-DASLab/marlin.svg?style=social)|⭐️⭐️ |
+|2024.08|🔥🔥[**SpMM**] High Performance Unstructured SpMM Computation Using Tensor Cores(@ETH Zurich)|[[pdf]](https://arxiv.org/pdf/2408.11551)|⚠️|⭐️ |
 
 ### 📖Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

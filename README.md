@@ -57,7 +57,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[CPU/Single GPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
 * 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
 * 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
-* 📖[Position Embed/Others](#Others)
+* 📖[VLM/Position Embed/Others](#Others)
 
 ### 📖Trending LLM/VLM Topics ([©️back👆🏻](#paperlist))  
 <div id="Trending-LLM-VLM-Topics"></div>  
@@ -402,13 +402,14 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥🔥[**SpMM**] High Performance Unstructured SpMM Computation Using Tensor Cores(@ETH Zurich)|[[pdf]](https://arxiv.org/pdf/2408.11551)|⚠️|⭐️ |
 |2024.09| 🔥[**TEE**]Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study(@phala.network)|[[pdf]](https://arxiv.org/pdf/2409.03992)|⚠️|⭐️ |
 
-### 📖Position Embed/Others ([©️back👆🏻](#paperlist))  
+### 📖VLM/Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2021.04|🔥[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING(@Zhuiyi Technology Co., Ltd.) |[[pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|⭐️ |     
-|2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |       
+|2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |      
+|2024.09|🔥[**Inf-MLLM**] Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU(@sjtu)|[[pdf]](https://arxiv.org/pdf/2409.09086)|⚠️|⭐️ |
 
 ## ©️License  
 

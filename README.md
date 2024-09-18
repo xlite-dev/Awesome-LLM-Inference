@@ -293,7 +293,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥🔥[**InfiniGen**] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management(@snu) | [[pdf]](https://arxiv.org/pdf/2406.19707) | ⚠️ |⭐️⭐️ |  
 |2024.06|🔥🔥[**Quest**] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) | [[pdf]](https://arxiv.org/pdf/2406.10774)| [[Quest]](https://github.com/mit-han-lab/Quest) ![](https://img.shields.io/github/stars/mit-han-lab/Quest.svg?style=social) |⭐️⭐️ |
 |2024.07| 🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
-|2024.08| 🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |  
+|2024.08| 🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |
+|2024.09| 🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  

@@ -89,7 +89,6 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.01|[Understanding LLMs] Understanding LLMs: A Comprehensive Overview from Training to Inference(@Shaanxi Normal University etc)| [[pdf]](https://arxiv.org/pdf/2401.02038.pdf) | ⚠️|⭐️⭐️ |   
 |2024.02|[LLM-Viewer] LLM Inference Unveiled: Survey and Roofline Model Insights(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2402.16363.pdf)|[[LLM-Viewer]](https://github.com/hahnyuan/LLM-Viewer)  ![](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer.svg?style=social) |⭐️⭐️ |  
 |2024.07|[**Internal Consistency & Self-Feedback**] Internal Consistency and Self-Feedback in Large Language Models: A Survey|[[pdf]](https://arxiv.org/pdf/2407.14507)| [[ICSF-Survey]](https://github.com/IAAR-Shanghai/ICSFSurvey)  ![](https://img.shields.io/github/stars/IAAR-Shanghai/ICSFSurvey.svg?style=social) | ⭐️⭐️ |
-|2024.09|🔥[**RetrievalAttention**] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2409.10516)|⚠️|⭐️⭐️ | 
 
 ### 📖LLM Train/Inference Framework/Design ([©️back👆🏻](#paperlist))  
 <div id="LLM-Train-Inference-Framework"></div>  
@@ -295,6 +294,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07| 🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
 |2024.08| 🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |
 |2024.09| 🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
+|2024.09|🔥[**RetrievalAttention**] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2409.10516)|⚠️|⭐️⭐️ | 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  

@@ -404,7 +404,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥🔥[**LUT TENSOR CORE**] LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration(@SJTU&PKU etc)|[[pdf]](https://arxiv.org/pdf/2408.06003)|⚠️|⭐️ | 
 |2024.08|🔥🔥[**MARLIN**] MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models(@ISTA) | [[pdf]](https://arxiv.org/pdf/2408.11743)|[[marlin]](https://github.com/IST-DASLab/marlin) ![](https://img.shields.io/github/stars/IST-DASLab/marlin.svg?style=social)|⭐️⭐️ |
 |2024.08|🔥🔥[**SpMM**] High Performance Unstructured SpMM Computation Using Tensor Cores(@ETH Zurich)|[[pdf]](https://arxiv.org/pdf/2408.11551)|⚠️|⭐️ |
-|2024.09| 🔥[**TEE**]Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study(@phala.network)|[[pdf]](https://arxiv.org/pdf/2409.03992)|⚠️|⭐️ |
+|2024.09|🔥🔥[**TEE**]Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study(@phala.network)|[[pdf]](https://arxiv.org/pdf/2409.03992)|⚠️|⭐️ |
+|2024.09|🔥🔥[**HiFloat8**] Ascend HiFloat8 Format for Deep Learning(@Huawei)|[[pdf]](https://arxiv.org/pdf/2409.16626)|⚠️|⭐️ |
 
 ### 📖VLM/Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

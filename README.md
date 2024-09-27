@@ -407,6 +407,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥🔥[**SpMM**] High Performance Unstructured SpMM Computation Using Tensor Cores(@ETH Zurich)|[[pdf]](https://arxiv.org/pdf/2408.11551)|⚠️|⭐️ |
 |2024.09|🔥🔥[**TEE**]Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study(@phala.network)|[[pdf]](https://arxiv.org/pdf/2409.03992)|⚠️|⭐️ |
 |2024.09|🔥🔥[**HiFloat8**] Ascend HiFloat8 Format for Deep Learning(@Huawei)|[[pdf]](https://arxiv.org/pdf/2409.16626)|⚠️|⭐️ |
+|2024.09|🔥🔥[**Tensor Cores**] Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores(@nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2409.17870)|⚠️|⭐️ |
 
 ### 📖VLM/Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

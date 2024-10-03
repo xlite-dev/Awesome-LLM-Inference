@@ -251,6 +251,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥[Palu] Palu: Compressing KV-Cache with Low-Rank Projection(@nycu.edu.tw)|[[pdf]](https://arxiv.org/pdf/2407.21118)|[[Palu]](https://github.com/shadowpa0327/Palu) ![](https://img.shields.io/github/stars/shadowpa0327/Palu.svg?style=social)|⭐️⭐️ |  
 |2024.08|🔥[Zero-Delay QKV Compression] Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference(@University of Virginia)|[[pdf]](https://arxiv.org/pdf/2408.04107)|⚠️|⭐️⭐️ |  
 |2024.09|🔥[**AlignedKV**] AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization(@Tsinghua University)|[[pdf]](https://arxiv.org/pdf/2409.16546)|[[AlignedKV]](https://github.com/AlignedQuant/AlignedKV) ![](https://img.shields.io/github/stars/AlignedQuant/AlignedKV.svg?style=social)|⭐️ | 
+|2024.10|🔥[**LayerKV**] Optimizing Large Language Model Serving with Layer-wise KV Cache Management(@Ant Group)|[[pdf]](https://arxiv.org/pdf/2410.00428)|⚠️|⭐️⭐️ |  
 
 
 ### 📖Prompt/Context/KV Compression ([©️back👆🏻](#paperlist))    

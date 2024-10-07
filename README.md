@@ -270,6 +270,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥🔥[**Context Distillation**] Efficient LLM Context Distillation(@gatech.edu)| [[pdf]](https://arxiv.org/pdf/2409.01930) | ⚠️ |⭐️⭐️ |  
 |2024.09|🔥🔥[**CRITIPREFILL**] CRITIPREFILL: A SEGMENT-WISE CRITICALITYBASED APPROACH FOR PREFILLING ACCELERATION IN LLMS(@OPPO) | [[pdf]](https://arxiv.org/pdf/2409.12490) | [CritiPrefill](https://github.com/66RING/CritiPrefill)  ![](https://img.shields.io/github/stars/66RING/CritiPrefill.svg?style=social)|⭐️ | 
 |2024.10|🔥🔥[**KV-COMPRESS**] PAGED KV-CACHE COMPRESSION WITH VARIABLE COMPRESSION RATES PER ATTENTION HEAD(@Cloudflare, inc.)| [[pdf]](https://arxiv.org/pdf/2410.00161) | [vllm-kvcompress](https://github.com/IsaacRe/vllm-kvcompress) ![](https://img.shields.io/github/stars/IsaacRe/vllm-kvcompress.svg?style=social)|⭐️⭐️ | 
+|2024.10|🔥🔥[**LORC**] Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy(@gatech.edu)|[[pdf]](https://arxiv.org/pdf/2410.03111)|⚠️ |⭐️⭐️ |
 
 ### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
 <div id="Long-Context-Attention-KVCache"></div>  

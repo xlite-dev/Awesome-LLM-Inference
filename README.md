@@ -345,7 +345,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥[**FocusLLM**] FocusLLM: Scaling LLM’s Context by Parallel Decoding(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2408.11745)|[[FocusLLM]](https://github.com/leezythu/FocusLLM) ![](https://img.shields.io/github/stars/leezythu/FocusLLM.svg?style=social)|⭐️ |
 |2024.08|🔥[**MagicDec**] MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding(@CMU etc)|[[pdf]](https://arxiv.org/pdf/2408.11049)|[[MagicDec]](https://github.com/Infini-AI-Lab/MagicDec/) ![](https://img.shields.io/github/stars/Infini-AI-Lab/MagicDec.svg?style=social)|⭐️ |
 |2024.08|🔥[**Speculative Decoding**] Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation(@BIT) | [[pdf]](https://arxiv.org/pdf/2408.15562) | ⚠️ |⭐️⭐️ |
+|2024.09|🔥[**Hybrid Inference**] Efficient Hybrid Inference for LLMs: Reward-Based Token Modelling with Selective Cloud Assistance|[[pdf]](https://arxiv.org/pdf/2409.13757) | ⚠️ |⭐️⭐️ |
 |2024.10|🔥[**PARALLELSPEC**] PARALLELSPEC: PARALLEL DRAFTER FOR EFFICIENT SPECULATIVE DECODING(@Tencent AI Lab etc)|[[pdf]](https://arxiv.org/pdf/2410.05589) | ⚠️ |⭐️⭐️ |
+
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    

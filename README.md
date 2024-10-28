@@ -54,7 +54,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
 * 📖[Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
 * 📖[Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)🔥
-* 📖[CPU/Single GPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
+* 📖[CPU/NPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
 * 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
 * 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
 * 📖[VLM/Position Embed/Others](#Others)
@@ -373,7 +373,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06| [MoE] A Survey on Mixture of Experts(@HKU) | [[pdf]](https://arxiv.org/pdf/2407.06204)| ⚠️ |⭐️| 
 
 
-### 📖CPU/Single GPU/FPGA/Mobile Inference ([©️back👆🏻](#paperlist))  
+### 📖CPU/Single GPU/FPGA/NPU/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recom|
@@ -387,6 +387,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[**xFasterTransformer**] Inference Performance Optimization for Large Language Models on CPUs(@Intel) | [[pdf]](https://arxiv.org/pdf/2407.07304)|[[xFasterTransformer]](https://github.com/intel/xFasterTransformer) ![](https://img.shields.io/github/stars/intel/xFasterTransformer.svg?style=social) |⭐️ | 
 |2024.07| [Summary] Inference Optimization of Foundation Models on AI Accelerators(@AWS AI) | [[pdf]](https://arxiv.org/pdf/2407.09111)|⚠️|⭐️ | 
 |2024.10| Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation(@SYSU) | [[pdf]](https://arxiv.org/pdf/2410.03613)|⚠️|⭐️ | 
+|2024.10|🔥🔥[**FastAttention**] FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs for Efficient Inference(@huawei etc)| [[pdf]](https://arxiv.org/pdf/2410.16663)|⚠️|⭐️ | 
 
 
 ### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    

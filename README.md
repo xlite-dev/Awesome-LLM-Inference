@@ -403,7 +403,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥🔥[Kraken] Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference(@Princeton) | [[pdf]](https://arxiv.org/pdf/2408.07802)|⚠️|⭐️ | 
 |2024.08|🔥🔥[**FLA**] FLA: A Triton-Based Library for Hardware-Efficient Implementations of Linear Attention Mechanism(@sustcsonglin)| [[docs]](https://github.com/sustcsonglin/flash-linear-attention) |[[flash-linear-attention]](https://github.com/sustcsonglin/flash-linear-attention) ![](https://img.shields.io/github/stars/sustcsonglin/flash-linear-attention.svg?style=social)|⭐️⭐️ |     
 
-### 📖GEMM/Tensor Cores/WMMA/Parallel ([©️back👆🏻](#paperlist))    
+### 📖GEMM/Tensor Cores/MMA/Parallel ([©️back👆🏻](#paperlist))    
 <div id="GEMM-Tensor-Cores-WMMA"></div>  
 
 |Date|Title|Paper|Code|Recom|
@@ -423,6 +423,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥🔥[**TEE**]Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study(@phala.network)|[[pdf]](https://arxiv.org/pdf/2409.03992)|⚠️|⭐️ |
 |2024.09|🔥🔥[**HiFloat8**] Ascend HiFloat8 Format for Deep Learning(@Huawei)|[[pdf]](https://arxiv.org/pdf/2409.16626)|⚠️|⭐️ |
 |2024.09|🔥🔥[**Tensor Cores**] Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores(@nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2409.17870)|⚠️|⭐️ |
+|2024.07|🔥🔥[**Tensor Product**] Acceleration of Tensor-Product Operations with Tensor Cores(@Heidelberg University)|[[pdf]](https://arxiv.org/pdf/2407.09621)|⚠️|⭐️ |
 
 ### 📖VLM/Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

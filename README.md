@@ -348,6 +348,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥[**Speculative Decoding**] Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation(@BIT) | [[pdf]](https://arxiv.org/pdf/2408.15562) | ⚠️ |⭐️⭐️ |
 |2024.09|🔥[**Hybrid Inference**] Efficient Hybrid Inference for LLMs: Reward-Based Token Modelling with Selective Cloud Assistance|[[pdf]](https://arxiv.org/pdf/2409.13757) | ⚠️ |⭐️⭐️ |
 |2024.10|🔥[**PARALLELSPEC**] PARALLELSPEC: PARALLEL DRAFTER FOR EFFICIENT SPECULATIVE DECODING(@Tencent AI Lab etc)|[[pdf]](https://arxiv.org/pdf/2410.05589) | ⚠️ |⭐️⭐️ |
+|2024.10|🔥[**Fast Best-of-N**] Fast Best-of-N Decoding via Speculative Rejection(@CMU etc) | [[pdf]](https://arxiv.org/pdf/2410.20290) | ⚠️ |⭐️⭐️ |
 
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    

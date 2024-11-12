@@ -174,6 +174,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.08|🔥[1-bit LLMs] Matmul or No Matmal in the Era of 1-bit LLMs(@University of South Carolina)|[[pdf]](https://arxiv.org/pdf/2408.11939)|⚠️|⭐️ |
 |2024.08|🔥[ACTIVATION SPARSITY] TRAINING-FREE ACTIVATION SPARSITY IN LARGE LANGUAGE MODELS(@MIT etc)|[[pdf]](https://arxiv.org/pdf/2408.14690)|[[TEAL]](https://github.com/FasterDecoding/TEAL) ![](https://img.shields.io/github/stars/FasterDecoding/TEAL.svg?style=social)|⭐️ |
 |2024.09|🔥[VPTQ] VPTQ: EXTREME LOW-BIT VECTOR POST-TRAINING QUANTIZATION FOR LARGE LANGUAGE MODELS(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2409.17066)|[[VPTQ]](https://github.com/microsoft/VPTQ) ![](https://img.shields.io/github/stars/microsoft/VPTQ.svg?style=social)|⭐️ |
+|2024.11|🔥[BitNet] BitNet a4.8: 4-bit Activations for 1-bit LLMs(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2411.04965)|[[bitnet]](https://github.com/microsoft/unilm/tree/master/bitnet) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social)|⭐️ |
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   

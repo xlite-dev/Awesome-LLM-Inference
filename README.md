@@ -42,7 +42,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
-* 📖[Data/Tensor/Sequence/Context Parallelism](#DP-TP-SP-CP)🔥🔥
+* 📖[Data/Model/Tensor/Sequence/Context Parallelism](#DP-MP-TP-SP-CP)🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -73,13 +73,20 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[**FlashAttention-3**] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) |[[pdf]](https://tridao.me/publications/flash3/flash3.pdf)|[[flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|⭐️⭐️ |  
 |2024.07|🔥🔥[**MInference 1.0**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) |[[pdf]](https://arxiv.org/pdf/2407.02490)|[[MInference 1.0]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social)|⭐️⭐️ |  
 
-### 📖Data/Tensor/Sequence/Context Parallelism ([©️back👆🏻](#paperlist))  
-<div id="DP-TP-SP-CP"></div>    
+### 📖Data/Model/Tensor/Sequence/Context Parallelism ([©️back👆🏻](#paperlist))  
+<div id="DP-MP-TP-SP-CP"></div>    
 
 |Date|Title|Paper|Code|Recom|  
-|:---:|:---:|:---:|:---:|:---:|   
-|2020.05|🔥[**Tensor Parallel**] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/1909.08053.pdf)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ |    
+|:---:|:---:|:---:|:---:|:---:|
+|2020|🔥🔥[**Model Parallel**] DeepSpeed-ZeRO: Memory Optimizations Toward Training Trillion Parameter Models(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/1910.02054)|  [[deepspeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |
+|2020.05|🔥🔥[**Tensor Parallel**] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/1909.08053.pdf)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ |    
+|2022.05|🔥🔥[**Sequence Parallel**] Megatron-LM: Reducing Activation Recomputation in Large Transformer Models(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2205.05198)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ | 
 |2023.10|🔥🔥[**Sequence Parallel**] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2310.01889.pdf)| [[RingAttention]](https://github.com/lhao499/RingAttention) ![](https://img.shields.io/github/stars/lhao499/RingAttention.svg?style=social)|⭐️⭐️ |  
+|2023.11|🔥🔥[**Sequence Paralle**] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc)|[[pdf]](https://arxiv.org/pdf/2311.09431.pdf) |[[striped_attention]](https://github.com/exists-forall/striped_attention/) ![](https://img.shields.io/github/stars/exists-forall/striped_attention.svg?style=social) |⭐️⭐️ | 
+|2023.10|🔥🔥[**Sequence Parallel**] DEEPSPEED ULYSSES: SYSTEM OPTIMIZATIONS FOR ENABLING TRAINING OF EXTREME LONG SEQUENCE TRANSFORMER MODELS(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2309.14509)|  [[deepspeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |
+|2024.03|🔥🔥[**Context Parallel**] Megatron-LM: Context parallelism overview(@NVIDIA)|[[docs]](https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/context_parallel.html)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ | 
+|2024.05|🔥🔥[**Unified Sequence Parallel (USP)**] YunChang: A Unified Sequence Parallel (USP) Attention for Long Context LLM Model Training and Inference(@Tencent)|[[pdf]]()|[[long-context-attention]](https://github.com/feifeibear/long-context-attention) ![](https://img.shields.io/github/stars/feifeibear/long-context-attention.svg?style=social)|⭐️⭐️ | 
+|2024.11| 🔥🔥[**Context Parallel**] Context Parallelism for Scalable Million-Token Inference(@Meta Platforms, Inc)|[[pdf]](https://arxiv.org/pdf/2411.01783)| ⚠️|⭐️⭐️ |   
 
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  

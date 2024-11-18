@@ -88,6 +88,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥🔥[**CP: Megatron-LM**] Megatron-LM: Context parallelism overview(@NVIDIA)|[[docs]](https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/context_parallel.html)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ | 
 |2024.05|🔥🔥[**SP: Unified Sequence Parallel (USP)**] YunChang: A Unified Sequence Parallel (USP) Attention for Long Context LLM Model Training and Inference(@Tencent)|[[pdf]]()|[[long-context-attention]](https://github.com/feifeibear/long-context-attention) ![](https://img.shields.io/github/stars/feifeibear/long-context-attention.svg?style=social)|⭐️⭐️ | 
 |2024.11| 🔥🔥[**CP: Meta**] Context Parallelism for Scalable Million-Token Inference(@Meta Platforms, Inc)|[[pdf]](https://arxiv.org/pdf/2411.01783)| ⚠️|⭐️⭐️ |   
+|2024.11| 🔥🔥[**TP: Comm Compression**] Communication Compression for Tensor Parallel LLM Inference(@recogni.com)|[[pdf]](https://arxiv.org/pdf/2411.09510)| ⚠️|⭐️⭐️ |   
 
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  

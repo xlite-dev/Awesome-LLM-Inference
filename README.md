@@ -42,9 +42,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
+* 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
-* 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
 * 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
@@ -81,6 +81,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2019.10|🔥🔥[**MP: ZeRO**] DeepSpeed-ZeRO: Memory Optimizations Toward Training Trillion Parameter Models(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/1910.02054)|  [[deepspeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |
 |2020.05|🔥🔥[**TP: Megatron-LM**] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/1909.08053.pdf)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ |    
 |2022.05|🔥🔥[**SP: Megatron-LM**] Megatron-LM: Reducing Activation Recomputation in Large Transformer Models(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2205.05198)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ | 
+|2023.05|🔥🔥[**SP: BPT**] Blockwise Parallel Transformer for Large Context Models(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2305.19370)| ⚠️|⭐️⭐️ |   
 |2023.10|🔥🔥[**SP: Ring Attention**] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2310.01889.pdf)| [[RingAttention]](https://github.com/lhao499/RingAttention) ![](https://img.shields.io/github/stars/lhao499/RingAttention.svg?style=social)|⭐️⭐️ |  
 |2023.11|🔥🔥[**SP: STRIPED ATTENTION**] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc)|[[pdf]](https://arxiv.org/pdf/2311.09431.pdf) |[[striped_attention]](https://github.com/exists-forall/striped_attention/) ![](https://img.shields.io/github/stars/exists-forall/striped_attention.svg?style=social) |⭐️⭐️ | 
 |2023.10|🔥🔥[**SP: DEEPSPEED ULYSSES**] DEEPSPEED ULYSSES: SYSTEM OPTIMIZATIONS FOR ENABLING TRAINING OF EXTREME LONG SEQUENCE TRANSFORMER MODELS(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2309.14509)|  [[deepspeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |

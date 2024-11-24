@@ -223,6 +223,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[Shared Attention] Beyond KV Caching: Shared Attention for Efficient LLMs(@Kyushu University etc)|[[pdf]](https://arxiv.org/pdf/2407.12866) | [[shareAtt]](https://github.com/metacarbon/shareAtt) ![](https://img.shields.io/github/stars/metacarbon/shareAtt.svg?style=social) | ⭐️ | 
 |2024.09|🔥🔥[**CHESS**] CHESS : Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification(@Wuhan University)|[[pdf]](https://arxiv.org/pdf/2409.01366) | ⚠️ |⭐️⭐️ |  
 |2024.09|🔥🔥[INT-FLASHATTENTION] INT-FLASHATTENTION: ENABLING FLASH ATTENTION FOR INT8 QUANTIZATION(@PKU etc)|[[pdf]](https://arxiv.org/pdf/2409.16997)| [[INT-FlashAttention]](https://github.com/INT-FlashAttention2024/INT-FlashAttention) ![](https://img.shields.io/github/stars/INT-FlashAttention2024/INT-FlashAttention.svg?style=social) | ⭐️ | 
+|2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  

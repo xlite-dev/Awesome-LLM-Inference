@@ -225,6 +225,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥🔥[INT-FLASHATTENTION] INT-FLASHATTENTION: ENABLING FLASH ATTENTION FOR INT8 QUANTIZATION(@PKU etc)|[[pdf]](https://arxiv.org/pdf/2409.16997)| [[INT-FlashAttention]](https://github.com/INT-FlashAttention2024/INT-FlashAttention) ![](https://img.shields.io/github/stars/INT-FlashAttention2024/INT-FlashAttention.svg?style=social) | ⭐️ | 
 |2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
+|2024.11|🔥🔥[**Squeezed Attention**] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) |[[pdf]](https://arxiv.org/pdf/2411.09688)|[[SqueezedAttention]](https://github.com/SqueezeAILab/SqueezedAttention) ![](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention) | ⭐️⭐️ |
+
+
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  

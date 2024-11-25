@@ -134,6 +134,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥[DynamoLLM] DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency(@Microsoft Azure Research)| [[pdf]](https://arxiv.org/pdf/2408.00741)|⚠️|⭐️ |   
 |2024.08|🔥[NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput(@University of Washington)| [[pdf]](https://arxiv.org/pdf/2408.12757)|[[Nanoflow]](https://github.com/efeslab/Nanoflow) ![](https://img.shields.io/github/stars/efeslab/Nanoflow.svg?style=social)|⭐️⭐️ |  
 |2024.08|🔥[**Decentralized LLM**] Decentralized LLM Inference over Edge Networks with Energy Harvesting(@Padova)| [[pdf]](https://arxiv.org/pdf/2408.15907)|⚠️|⭐️ |   
+|2024.11| 🔥[**SparseInfer**] SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference(@University of Seoul, etc)|[[pdf]](https://arxiv.org/pdf/2411.12692)|⚠️|⭐️ | 
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    

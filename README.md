@@ -68,6 +68,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥[**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)|⭐️⭐️ |    
 |2024.07|🔥🔥[**FlashAttention-3**] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) |[[pdf]](https://tridao.me/publications/flash3/flash3.pdf)|[[flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|⭐️⭐️ |  
 |2024.07|🔥🔥[**MInference 1.0**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) |[[pdf]](https://arxiv.org/pdf/2407.02490)|[[MInference 1.0]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social)|⭐️⭐️ |  
+|2024.11|🔥🔥🔥[**Star-Attention: 11x~ speedup**] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2411.17116)|[[Star-Attention]](https://github.com/NVIDIA/Star-Attention) ![](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social)|⭐️⭐️ |  
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    
@@ -85,6 +86,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥🔥[**SP: Unified Sequence Parallel (USP)**] YunChang: A Unified Sequence Parallel (USP) Attention for Long Context LLM Model Training and Inference(@Tencent)|[[pdf]]()|[[long-context-attention]](https://github.com/feifeibear/long-context-attention) ![](https://img.shields.io/github/stars/feifeibear/long-context-attention.svg?style=social)|⭐️⭐️ | 
 |2024.11| 🔥🔥[**CP: Meta**] Context Parallelism for Scalable Million-Token Inference(@Meta Platforms, Inc)|[[pdf]](https://arxiv.org/pdf/2411.01783)| ⚠️|⭐️⭐️ |   
 |2024.11| 🔥🔥[**TP: Comm Compression**] Communication Compression for Tensor Parallel LLM Inference(@recogni.com)|[[pdf]](https://arxiv.org/pdf/2411.09510)| ⚠️|⭐️⭐️ |   
+|2024.11|🔥🔥🔥[**SP: Star-Attention, 11x~ speedup**] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2411.17116)|[[Star-Attention]](https://github.com/NVIDIA/Star-Attention) ![](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social)|⭐️⭐️ |  
 
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  

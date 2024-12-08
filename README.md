@@ -151,8 +151,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc)|[[pdf]](https://arxiv.org/pdf/2310.03294.pdf)|[[LightSeq]](https://github.com/RulinShao/LightSeq) ![](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)|⭐️ |    
 |2024.05|🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India)|[[pdf]](https://arxiv.org/pdf/2405.04437)|[[vAttention]](https://github.com/microsoft/vattention) ![](https://img.shields.io/github/stars/microsoft/vattention.svg?style=social)|⭐️⭐️ | 
 |2024.07|🔥🔥[**vTensor**] vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving(@Shanghai Jiao Tong University etc)|[[pdf]](https://arxiv.org/pdf/2407.15309)|[[vTensor]](https://github.com/intelligent-machine-learning/glake/tree/master/GLakeServe) ![](https://img.shields.io/github/stars/intelligent-machine-learning/glake.svg?style=social)|⭐️⭐️ |
-|2024.08| 🔥[Automatic Inference Engine Tuning] Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning(@Nanjing University etc)|[[pdf]](https://arxiv.org/pdf/2408.04323)|⚠️|⭐️⭐️ | 
+|2024.08|🔥[Automatic Inference Engine Tuning] Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning(@Nanjing University etc)|[[pdf]](https://arxiv.org/pdf/2408.04323)|⚠️|⭐️⭐️ | 
 |2024.08|🔥[**SJF Scheduling**] Efficient LLM Scheduling by Learning to Rank(@UCSD etc)|[[pdf]](https://arxiv.org/pdf/2408.15792)|⚠️|⭐️⭐️ | 
+|2024.12|🔥[**BatchLLM**] BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2412.03594)|⚠️|⭐️⭐️ | 
 
 ### 📖Weight/Activation Quantize/Compress ([©️back👆🏻](#paperlist))  
 <div id="Weight-Activation-Quantize-Compress"></div>  

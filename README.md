@@ -277,8 +277,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥[**AlignedKV**] AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization(@Tsinghua University)|[[pdf]](https://arxiv.org/pdf/2409.16546)|[[AlignedKV]](https://github.com/AlignedQuant/AlignedKV) ![](https://img.shields.io/github/stars/AlignedQuant/AlignedKV.svg?style=social)|⭐️ | 
 |2024.10|🔥[**LayerKV**] Optimizing Large Language Model Serving with Layer-wise KV Cache Management(@Ant Group)|[[pdf]](https://arxiv.org/pdf/2410.00428)|⚠️|⭐️⭐️ |  
 |2024.10|🔥[**AdaKV**] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference (@USTC)|[[pdf]](https://arxiv.org/abs/2407.11550)|[[AdaKV]](https://github.com/FFY0/AdaKV) ![](https://img.shields.io/github/stars/FFY0/AdaKV.svg?style=social&label=Star)|⭐️⭐️| 
-|2024.11| 🔥[**KV Cache Recomputation**] Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation(@University of Southern California)|[[pdf]](https://arxiv.org/pdf/2411.17089)|⚠️|⭐️⭐️ |  
-
+|2024.11|🔥[**KV Cache Recomputation**] Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation(@University of Southern California)|[[pdf]](https://arxiv.org/pdf/2411.17089)|⚠️|⭐️⭐️ |  
+|2024.12|🔥[**ClusterKV**] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression(@sjtu)|[[pdf]](https://arxiv.org/pdf/2412.03213)|⚠️|⭐️⭐️ | 
 
 ### 📖Prompt/Context/KV Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  

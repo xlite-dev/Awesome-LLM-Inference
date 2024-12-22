@@ -281,6 +281,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.10|🔥[**AdaKV**] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference (@USTC)|[[pdf]](https://arxiv.org/abs/2407.11550)|[[AdaKV]](https://github.com/FFY0/AdaKV) ![](https://img.shields.io/github/stars/FFY0/AdaKV.svg?style=social&label=Star)|⭐️⭐️| 
 |2024.11|🔥[**KV Cache Recomputation**] Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation(@University of Southern California)|[[pdf]](https://arxiv.org/pdf/2411.17089)|⚠️|⭐️⭐️ |  
 |2024.12|🔥[**ClusterKV**] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression(@sjtu)|[[pdf]](https://arxiv.org/pdf/2412.03213)|⚠️|⭐️⭐️ | 
+|2024.12| 🔥[**DynamicKV**] DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs(@xiabinzhou0625 etc)|[[pdf]](https://arxiv.org/pdf/2412.14838)|⚠️|⭐️⭐️ |
 
 ### 📖Prompt/Context/KV Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  

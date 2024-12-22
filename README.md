@@ -226,6 +226,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**Squeezed Attention**] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) |[[pdf]](https://arxiv.org/pdf/2411.09688)|[[SqueezedAttention]](https://github.com/SqueezeAILab/SqueezedAttention) ![](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention) | ⭐️⭐️ |
+|2024.12|🔥🔥[**TurboAttention**] TURBOATTENTION: EFFICIENT ATTENTION APPROXIMATION FOR HIGH THROUGHPUTS LLMS(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2412.08585)| ⚠️ |⭐️⭐️ |  
 
 
 

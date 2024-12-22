@@ -416,7 +416,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07| [Summary] Inference Optimization of Foundation Models on AI Accelerators(@AWS AI) | [[pdf]](https://arxiv.org/pdf/2407.09111)|⚠️|⭐️ | 
 |2024.10| Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation(@SYSU) | [[pdf]](https://arxiv.org/pdf/2410.03613)|⚠️|⭐️ | 
 |2024.10|🔥🔥[**FastAttention**] FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs for Efficient Inference(@huawei etc)| [[pdf]](https://arxiv.org/pdf/2410.16663)|⚠️|⭐️ | 
-
+|2024.12|🔥🔥[**NITRO**] NITRO: LLM INFERENCE ON INTEL® LAPTOP NPUS(@cornell.edu)|[[pdf]](https://arxiv.org/pdf/2412.11053)|[[nitro]](https://github.com/abdelfattah-lab/nitro) ![](https://img.shields.io/github/stars/abdelfattah-lab/nitro.svg?style=social)|⭐️ |       
 
 ### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    
 <div id="Non-Transformer-Architecture"></div>  

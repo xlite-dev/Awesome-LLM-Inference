@@ -451,6 +451,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥🔥[**HiFloat8**] Ascend HiFloat8 Format for Deep Learning(@Huawei)|[[pdf]](https://arxiv.org/pdf/2409.16626)|⚠️|⭐️ |
 |2024.09|🔥🔥[**Tensor Cores**] Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores(@nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2409.17870)|⚠️|⭐️ |
 |2024.07|🔥🔥[**Tensor Product**] Acceleration of Tensor-Product Operations with Tensor Cores(@Heidelberg University)|[[pdf]](https://arxiv.org/pdf/2407.09621)|⚠️|⭐️ |
+|2024.12| 🔥🔥[**HADACORE**] HADACORE: TENSOR CORE ACCELERATED HADAMARD TRANSFORM KERNEL(@Meta)|[[pdf]](https://arxiv.org/pdf/2407.09621)|[[hadamard_transform]](https://github.com/pytorch-labs/applied-ai/tree/main/kernels/cuda/inference/hadamard_transform) ![](https://img.shields.io/github/stars/pytorch-labs/applied-ai.svg?style=social)|⭐️ |
 
 ### 📖VLM/Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  

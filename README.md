@@ -70,7 +70,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[**MInference 1.0**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) |[[pdf]](https://arxiv.org/pdf/2407.02490)|[[MInference 1.0]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social)|⭐️⭐️ |  
 |2024.11|🔥🔥🔥[**Star-Attention: 11x~ speedup**] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2411.17116)|[[Star-Attention]](https://github.com/NVIDIA/Star-Attention) ![](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social)|⭐️⭐️ |  
 |2024.12|🔥🔥🔥[**DeepSeek-V3**] DeepSeek-V3 Technical Report(@deepseek-ai) | [[pdf]](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) | [[DeepSeek-V3]](https://github.com/deepseek-ai/DeepSeek-V3) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social) | ⭐️⭐️ | 
-|2025.1|🔥🔥🔥 [**MiniMax-Text-01**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
+|2025.01|🔥🔥🔥 [**MiniMax-Text-01**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    
@@ -335,7 +335,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
 |2024.09|🔥[**RetrievalAttention**] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2409.10516)|⚠️|⭐️⭐️ | 
 |2024.10|🔥[**ShadowKV**] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference(@CMU & bytedance)|[[pdf]](https://arxiv.org/pdf/2410.21465)|[[ShadowKV]](https://github.com/bytedance/ShadowKV) ![](https://img.shields.io/github/stars/bytedance/ShadowKV.svg?style=social) |⭐️⭐️ | 
-|2025.1|🔥🔥🔥 [**Lightning Attention**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
+|2025.01|🔥🔥🔥 [**Lightning Attention**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  

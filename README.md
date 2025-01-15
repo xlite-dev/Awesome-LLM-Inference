@@ -335,6 +335,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.09|🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
 |2024.09|🔥[**RetrievalAttention**] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2409.10516)|⚠️|⭐️⭐️ | 
 |2024.10|🔥[**ShadowKV**] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference(@CMU & bytedance)|[[pdf]](https://arxiv.org/pdf/2410.21465)|[[ShadowKV]](https://github.com/bytedance/ShadowKV) ![](https://img.shields.io/github/stars/bytedance/ShadowKV.svg?style=social) |⭐️⭐️ | 
+|2025.1|🔥🔥🔥 [**Lightning Attention**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  

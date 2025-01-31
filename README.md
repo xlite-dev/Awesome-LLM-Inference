@@ -98,7 +98,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 |Date|Title|Paper|Code|Recom|  
 |:---:|:---:|:---:|:---:|:---:|
-|2024.01|🔥🔥[DistServe] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU)|[[pdf]](https://arxiv.org/pdf/2401.09670)|[[DistServe]](https://github.com/LLMServe/DistServe) ![](https://img.shields.io/github/stars/LLMServe/DistServe.svg?style=social) |⭐️⭐️ |
+|2024.01|🔥🔥[**DistServe**] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU)|[[pdf]](https://arxiv.org/pdf/2401.09670)|[[DistServe]](https://github.com/LLMServe/DistServe) ![](https://img.shields.io/github/stars/LLMServe/DistServe.svg?style=social) |⭐️⭐️ |
+|2024.12|🔥🔥[**KVDirect**] KVDirect: Distributed Disaggregated LLM Inference(@ByteDance)|[[pdf]](https://arxiv.org/pdf/2501.14743)|⚠️|⭐️ |
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
 <div id="LLM-Algorithmic-Eval-Survey"></div>  

@@ -39,6 +39,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
 * 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
+* 📖[Disaggregating Prefill and Decoding](#P-D-Disaggregating)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -91,6 +92,13 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.11|🔥🔥[**TP: Comm Compression**] Communication Compression for Tensor Parallel LLM Inference(@recogni.com)|[[pdf]](https://arxiv.org/pdf/2411.09510)| ⚠️|⭐️⭐️ |   
 |2024.11|🔥🔥🔥[**SP: Star-Attention, 11x~ speedup**] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA)|[[pdf]](https://arxiv.org/pdf/2411.17116)|[[Star-Attention]](https://github.com/NVIDIA/Star-Attention) ![](https://img.shields.io/github/stars/NVIDIA/Star-Attention.svg?style=social)|⭐️⭐️ |  
 |2024.12|🔥🔥[**SP: TokenRing**] TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication(@SJTU) |[[pdf]](https://arxiv.org/pdf/2412.20501)|[[token-ring]](https://github.com/ACA-Lab-SJTU/token-ring) ![](https://img.shields.io/github/stars/ACA-Lab-SJTU/token-ring.svg?style=social)|⭐️⭐️ | 
+
+### 📖Disaggregating Prefill and Decoding ([©️back👆🏻](#paperlist))  
+<div id="P-D-Disaggregating"></div>  
+
+|Date|Title|Paper|Code|Recom|  
+|:---:|:---:|:---:|:---:|:---:|
+|2024.01|🔥🔥[DistServe] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU)|[[pdf]](https://arxiv.org/pdf/2401.09670)|[[DistServe]](https://github.com/LLMServe/DistServe) ![](https://img.shields.io/github/stars/LLMServe/DistServe.svg?style=social) |⭐️⭐️ |
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
 <div id="LLM-Algorithmic-Eval-Survey"></div>  

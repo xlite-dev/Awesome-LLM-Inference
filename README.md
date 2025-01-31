@@ -99,6 +99,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |Date|Title|Paper|Code|Recom|  
 |:---:|:---:|:---:|:---:|:---:|
 |2024.01|🔥🔥[**DistServe**] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU)|[[pdf]](https://arxiv.org/pdf/2401.09670)|[[DistServe]](https://github.com/LLMServe/DistServe) ![](https://img.shields.io/github/stars/LLMServe/DistServe.svg?style=social) |⭐️⭐️ |
+|2024.06|🔥🔥[**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |[[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)|⭐️⭐️ |    
 |2024.12|🔥🔥[**KVDirect**] KVDirect: Distributed Disaggregated LLM Inference(@ByteDance)|[[pdf]](https://arxiv.org/pdf/2501.14743)|⚠️|⭐️ |
 |2025.01|🔥🔥[**DeServe**] DESERVE: TOWARDS AFFORDABLE OFFLINE LLM INFERENCE VIA DECENTRALIZATION(@Berkeley)|[[pdf]](https://arxiv.org/pdf/2501.14784)|⚠️|⭐️ |
 

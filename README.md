@@ -38,7 +38,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
-* 📖[Multi-head Latent Attention(MLA)](#mla)🔥🔥🔥
+* 📖[DeepSeek/Multi-head Latent Attention(MLA)](#mla)🔥🔥🔥
 * 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
 * 📖[Disaggregating Prefill and Decoding](#P-D-Disaggregating)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
@@ -75,7 +75,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2025.01|🔥🔥🔥 [**MiniMax-Text-01**] MiniMax-01: Scaling Foundation Models with Lightning Attention | [[report]](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) | [[MiniMax-01]](https://github.com/MiniMax-AI/MiniMax-01) ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg?style=social) | ⭐️⭐️ | 
 |2025.01|🔥🔥🔥[**DeepSeek-R1**] DeepSeek-R1 Technical Report(@deepseek-ai) | [[pdf]](https://arxiv.org/pdf/2501.12948v1) | [[DeepSeek-R1]](https://github.com/deepseek-ai/DeepSeek-R1) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) | ⭐️⭐️ | 
 
-### 📖Multi-head Latent Attention(MLA) ([©️back👆🏻](#paperlist))    
+### 📖DeepSeek/Multi-head Latent Attention(MLA) ([©️back👆🏻](#paperlist))    
 <div id="mla"></div>    
 
 |Date|Title|Paper|Code|Recom|
@@ -84,7 +84,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.12|🔥🔥🔥[**DeepSeek-V3**] DeepSeek-V3 Technical Report(@deepseek-ai) | [[pdf]](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) | [[DeepSeek-V3]](https://github.com/deepseek-ai/DeepSeek-V3) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social) | ⭐️⭐️ | 
 |2025.01|🔥🔥🔥[**DeepSeek-R1**] DeepSeek-R1 Technical Report(@deepseek-ai) | [[pdf]](https://arxiv.org/pdf/2501.12948v1) | [[DeepSeek-R1]](https://github.com/deepseek-ai/DeepSeek-R1) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) | ⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
-
+|2025.02|🔥🔥🔥[**DeepSeek-NSA**] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention(@deepseek-ai)| [[pdf]](https://arxiv.org/pdf/2502.11089)| ⚠️|⭐️⭐️ |   
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    

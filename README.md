@@ -84,7 +84,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.12|🔥🔥🔥[**DeepSeek-V3**] DeepSeek-V3 Technical Report(@deepseek-ai) | [[pdf]](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) | [[DeepSeek-V3]](https://github.com/deepseek-ai/DeepSeek-V3) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3.svg?style=social) | ⭐️⭐️ | 
 |2025.01|🔥🔥🔥[**DeepSeek-R1**] DeepSeek-R1 Technical Report(@deepseek-ai) | [[pdf]](https://arxiv.org/pdf/2501.12948v1) | [[DeepSeek-R1]](https://github.com/deepseek-ai/DeepSeek-R1) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) | ⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
-|2025.02|🔥🔥🔥[**DeepSeek-NSA**] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention(@deepseek-ai)| [[pdf]](https://arxiv.org/pdf/2502.11089)| ⚠️|⭐️⭐️ |   
+|2025.02|🔥🔥🔥[**DeepSeek-NSA**] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention(@deepseek-ai)| [[pdf]](https://arxiv.org/pdf/2502.11089)| ⚠️|⭐️⭐️ | 
+|2025.02|🔥🔥🔥[**FlashMLA**] FlashMLA(@deepseek-ai)|⚠️| [FlashMLA](https://github.com/deepseek-ai/FlashMLA) ![](https://img.shields.io/github/stars/deepseek-ai/FlashMLA.svg?style=social) |⭐️⭐️ |
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    

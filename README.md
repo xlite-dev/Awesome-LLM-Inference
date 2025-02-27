@@ -310,6 +310,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.11|🔥[**KV Cache Recomputation**] Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation(@University of Southern California)|[[pdf]](https://arxiv.org/pdf/2411.17089)|⚠️|⭐️⭐️ |  
 |2024.12|🔥[**ClusterKV**] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression(@sjtu)|[[pdf]](https://arxiv.org/pdf/2412.03213)|⚠️|⭐️⭐️ | 
 |2024.12| 🔥[**DynamicKV**] DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs(@xiabinzhou0625 etc)|[[pdf]](https://arxiv.org/pdf/2412.14838)|⚠️|⭐️⭐️ |
+|2025.02| 🔥[**DynamicLLaVA**] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu)|[[pdf]](https://arxiv.org/pdf/2412.00876)|[[DynamicLLaVA]](https://github.com/Osilly/dynamic_llava) ![](https://img.shields.io/github/stars/Osilly/dynamic_llava.svg?style=social&label=Star)|⭐️⭐️| 
 
 ### 📖Prompt/Context/KV Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
@@ -492,6 +493,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |      
 |2024.09|🔥[**Inf-MLLM**] Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU(@sjtu)|[[pdf]](https://arxiv.org/pdf/2409.09086)|⚠️|⭐️ |
 |2024.11|🔥[VL-CACHE] VL-CACHE: SPARSITY AND MODALITY-AWARE KV CACHE COMPRESSION FOR VISION-LANGUAGE MODEL INFERENCE ACCELERATION(@g.ucla.edu etc)|[[pdf]](https://arxiv.org/pdf/2410.23317)|⚠️|⭐️ |
+|2025.02| 🔥[**DynamicLLaVA**] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu)|[[pdf]](https://arxiv.org/pdf/2412.00876)|[[DynamicLLaVA]](https://github.com/Osilly/dynamic_llava) ![](https://img.shields.io/github/stars/Osilly/dynamic_llava.svg?style=social&label=Star)|⭐️⭐️| 
 
 ## ©️License  
 

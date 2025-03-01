@@ -38,7 +38,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
-* 📖[DeepSeek/Multi-head Latent Attention(MLA)](#mla)🔥🔥🔥
+* 📖[DeepSeek/MLA Topics](#mla)🔥🔥🔥
 * 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
 * 📖[Disaggregating Prefill and Decoding](#P-D-Disaggregating)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
@@ -86,6 +86,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2025.02|🔥🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**DeepSeek-NSA**] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention(@deepseek-ai)| [[pdf]](https://arxiv.org/pdf/2502.11089)| ⚠️|⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**FlashMLA**] FlashMLA(@deepseek-ai)|⚠️| [FlashMLA](https://github.com/deepseek-ai/FlashMLA) ![](https://img.shields.io/github/stars/deepseek-ai/FlashMLA.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**MHA2MLA**] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn)|[[pdf]](https://arxiv.org/pdf/2502.14837)| [MHA2MLA](https://github.com/JT-Ushio/MHA2MLA) ![](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social) |⭐️⭐️ |
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    

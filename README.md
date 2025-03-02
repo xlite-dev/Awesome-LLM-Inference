@@ -85,8 +85,15 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2025.01|🔥🔥🔥[**DeepSeek-R1**] DeepSeek-R1 Technical Report(@deepseek-ai) | [[pdf]](https://arxiv.org/pdf/2501.12948v1) | [[DeepSeek-R1]](https://github.com/deepseek-ai/DeepSeek-R1) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) | ⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
 |2025.02|🔥🔥🔥[**DeepSeek-NSA**] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention(@deepseek-ai)| [[pdf]](https://arxiv.org/pdf/2502.11089)| ⚠️|⭐️⭐️ | 
-|2025.02|🔥🔥🔥[**FlashMLA**] FlashMLA(@deepseek-ai)|⚠️| [FlashMLA](https://github.com/deepseek-ai/FlashMLA) ![](https://img.shields.io/github/stars/deepseek-ai/FlashMLA.svg?style=social) |⭐️⭐️ |
-|2025.02|🔥🔥🔥[**MHA2MLA**] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn)|[[pdf]](https://arxiv.org/pdf/2502.14837)| [MHA2MLA](https://github.com/JT-Ushio/MHA2MLA) ![](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**FlashMLA**] FlashMLA(@deepseek-ai)|⚠️| [[FlashMLA]](https://github.com/deepseek-ai/FlashMLA) ![](https://img.shields.io/github/stars/deepseek-ai/FlashMLA.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**MHA2MLA**] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn)|[[pdf]](https://arxiv.org/pdf/2502.14837)| [[MHA2MLA]](https://github.com/JT-Ushio/MHA2MLA) ![](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**DualPipe**] DualPipe(@deepseek-ai)|⚠️| [[DualPipe]](https://github.com/deepseek-ai/DualPipe) ![](https://img.shields.io/github/stars/deepseek-ai/DualPipe.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**DeepEP**] DeepEP(@deepseek-ai)|⚠️| [[DeepEP]](https://github.com/deepseek-ai/DeepEP) ![](https://img.shields.io/github/stars/deepseek-ai/DeepEP.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**DeepGEMM**] DeepGEMM(@deepseek-ai)|⚠️| [[DeepGEMM]](https://github.com/deepseek-ai/DeepGEMM) ![](https://img.shields.io/github/stars/deepseek-ai/DeepGEMM.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**EPLB**] EPLB(@deepseek-ai)|⚠️| [[EPLB]](https://github.com/deepseek-ai/EPLB) ![](https://img.shields.io/github/stars/deepseek-ai/EPLB.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥🔥[**3FS**] 3FS(@deepseek-ai)|⚠️| [[3FS]](https://github.com/deepseek-ai/3FS) ![](https://img.shields.io/github/stars/deepseek-ai/3FS.svg?style=social) |⭐️⭐️ |
+|2025.03|🔥🔥🔥[**推理系统**] DeepSeek-V3 / R1 推理系统概览 (@deepseek-ai) | [[blog]](https://zhuanlan.zhihu.com/p/27181462601) | ⚠️|⭐️⭐️ | 
+
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    

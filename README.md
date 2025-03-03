@@ -320,6 +320,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.12|🔥[**ClusterKV**] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression(@sjtu)|[[pdf]](https://arxiv.org/pdf/2412.03213)|⚠️|⭐️⭐️ | 
 |2024.12| 🔥[**DynamicKV**] DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs(@xiabinzhou0625 etc)|[[pdf]](https://arxiv.org/pdf/2412.14838)|⚠️|⭐️⭐️ |
 |2025.02| 🔥[**DynamicLLaVA**] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu)|[[pdf]](https://arxiv.org/pdf/2412.00876)|[[DynamicLLaVA]](https://github.com/Osilly/dynamic_llava) ![](https://img.shields.io/github/stars/Osilly/dynamic_llava.svg?style=social&label=Star)|⭐️⭐️| 
+|2025.02|🔥[**CacheCraft**] Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation(@Adobe Research)|[[pdf]](https://www.arxiv.org/pdf/2502.15734)|⚠️|⭐️⭐️ |
 
 ### 📖Prompt/Context/KV Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  

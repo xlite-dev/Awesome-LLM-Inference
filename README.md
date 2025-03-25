@@ -5,33 +5,33 @@
 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
-  <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/downloads/xlite-dev/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
+  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v2.6-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-Diffusion-Inference](https://github.com/DefTruth/Awesome-Diffusion-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-Diffusion-Inference.svg?style=social). For CUDA learn notes, please check 📖[CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/DefTruth/CUDA-Learn-Notes.svg?style=social).
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-Diffusion-Inference](https://github.com/xlite-dev/Awesome-Diffusion-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-Diffusion-Inference.svg?style=social). For CUDA learn notes, please check 📖[CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/xlite-dev/CUDA-Learn-Notes.svg?style=social).
 
 ## ©️Citations 
 
 ```BibTeX
 @misc{Awesome-LLM-Inference@2024,
   title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
-  url={https://github.com/DefTruth/Awesome-LLM-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
-  author={DefTruth, liyucheng09 etc},
+  url={https://github.com/xlite-dev/Awesome-LLM-Inference},
+  note={Open-source software available at https://github.com/xlite-dev/Awesome-LLM-Inference},
+  author={xlite-dev, liyucheng09 etc},
   year={2024}
 }
 ```
 
 ## 🎉Awesome LLM Inference Papers with Codes  
 
-[Awesome LLM Inference for Beginners.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
+[Awesome LLM Inference for Beginners.pdf](https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
 
 <div align='center'>
-<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
+<img src=https://github.com/xlite-dev/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
 </div>   
 
 <div id="paperlist"></div>  
@@ -262,7 +262,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**Squeezed Attention**] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) |[[pdf]](https://arxiv.org/pdf/2411.09688)|[[SqueezedAttention]](https://github.com/SqueezeAILab/SqueezedAttention) ![](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention) | ⭐️⭐️ |
 |2024.12|🔥🔥[**TurboAttention**] TURBOATTENTION: EFFICIENT ATTENTION APPROXIMATION FOR HIGH THROUGHPUTS LLMS(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2412.08585)| ⚠️ |⭐️⭐️ |  
-|2025.01|🔥🔥[**FFPA**] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@DefTruth)|[[docs]](https://github.com/DefTruth/ffpa-attn-mma)| [[ffpa-attn-mma]](https://github.com/DefTruth/ffpa-attn-mma) ![](https://img.shields.io/github/stars/DefTruth/ffpa-attn-mma)|⭐️⭐️ |
+|2025.01|🔥🔥[**FFPA**] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@xlite-dev)|[[docs]](https://github.com/xlite-dev/ffpa-attn-mma)| [[ffpa-attn-mma]](https://github.com/xlite-dev/ffpa-attn-mma) ![](https://img.shields.io/github/stars/xlite-dev/ffpa-attn-mma)|⭐️⭐️ |
 |2024.11|🔥🔥[**SpargeAttention**] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2502.18137)|[[SpargeAttn]](https://github.com/thu-ml/SpargeAttn) ![](https://img.shields.io/github/stars/thu-ml/SpargeAttn) | ⭐️⭐️ |
 
 
@@ -516,12 +516,12 @@ Welcome to star & submit a PR to this repo!
 
 <!--
 <div align='center'>
-  <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
-<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
+  <img width="450" height="250" alt="v02" src="https://github.com/xlite-dev/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
+<a href="https://star-history.com/#xlite-dev/Awesome-LLM-Inference&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
   </picture>
 </a>
 </div>

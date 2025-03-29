@@ -91,9 +91,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2025.02|🔥🔥🔥[**EPLB**] DeepSeek EPLB(@deepseek-ai)|⚠️| [[EPLB]](https://github.com/deepseek-ai/EPLB) ![](https://img.shields.io/github/stars/deepseek-ai/EPLB.svg?style=social) |⭐️⭐️ |
 |2025.02|🔥🔥🔥[**3FS**] DeepSeek 3FS(@deepseek-ai)|⚠️| [[3FS]](https://github.com/deepseek-ai/3FS) ![](https://img.shields.io/github/stars/deepseek-ai/3FS.svg?style=social) |⭐️⭐️ |
 |2025.03|🔥🔥🔥[**推理系统**] DeepSeek-V3 / R1 推理系统概览 (@deepseek-ai) | [[blog]](https://zhuanlan.zhihu.com/p/27181462601) | ⚠️|⭐️⭐️ | 
-|2025.02|🔥🔥🔥[**MHA2MLA**] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn)|[[pdf]](https://arxiv.org/pdf/2502.14837)| [[MHA2MLA]](https://github.com/JT-Ushio/MHA2MLA) ![](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social) |⭐️⭐️ |
-|2025.02|🔥🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
-
+|2025.02|🔥🔥[**MHA2MLA**] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn)|[[pdf]](https://arxiv.org/pdf/2502.14837)| [[MHA2MLA]](https://github.com/JT-Ushio/MHA2MLA) ![](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA.svg?style=social) |⭐️⭐️ |
+|2025.02|🔥🔥[**TransMLA**] TransMLA: Multi-head Latent Attention Is All You Need(@PKU)|[[pdf]](https://arxiv.org/pdf/2502.07864)|[[TransMLA]](https://github.com/fxmeng/TransMLA) ![](https://img.shields.io/github/stars/fxmeng/TransMLA.svg?style=social) | ⭐️⭐️ | 
+|2025.03|🔥🔥[**X-EcoMLA**] X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression(@AMD)| [[pdf]](https://arxiv.org/pdf/2503.11132) |⚠️|⭐️⭐️ | 
 
 ### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    

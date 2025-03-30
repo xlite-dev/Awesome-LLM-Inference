@@ -13,6 +13,11 @@ def extract_pdf_info(text):
     pattern = r'\|.*?\|\s*🔥*\[([^\]]+)\].*?\[\[(.*?pdf.*?)\]\]\((https://[^\)]+)\)'
     matches = re.findall(pattern, text)
     info_list = []
+    # Add default pdf: https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip
+    info_list.append((
+        "Awesome-LLM-Inference-v0.3", 
+        "https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip"
+    ))
     for title, _, link in matches:
         # Remove special characters from the paper title to avoid illegal file names.
         valid_title = re.sub(r'[\\/*?:"<>|]', '', title)
@@ -34,8 +39,17 @@ def download_file(title, url):
         download_dir = 'downloaded_pdfs'
         if not os.path.exists(download_dir):
             os.makedirs(download_dir)
-
-        file_name = os.path.join(download_dir, f"{title}.pdf")
+        # Use the paper title as the file name.
+        # Replace any invalid characters in the title with underscores. 
+        if not url.endswith('.zip'):
+            file_name = os.path.join(download_dir, f"{title}.pdf")
+        else:
+            file_name = os.path.join(download_dir, f"{title}.zip")
+        # Check if the file already exists.
+        if os.path.exists(file_name):
+            print(f"File {file_name} already exists. Skipping download.")
+            return True
+        # Get the total size of the file from the response headers.
         total_size = int(response.headers.get('content-length', 0))
 
         print(f"Downloading paper {title}, file name is {file_name}...")
@@ -45,6 +59,8 @@ def download_file(title, url):
             unit='B',
             unit_scale=True,
             unit_divisor=1024,
+            colour="yellow",
+            ascii=True,
         ) as bar:
             for data in response.iter_content(chunk_size=1024):
                 size = file.write(data)
@@ -64,7 +80,7 @@ def main():
         pdf_info = extract_pdf_info(text)
         print(f"A total of {len(pdf_info)} PDF links were matched.")
 
-        for title, link in pdf_info:
+        for title, link in tqdm(pdf_info, colour="blue"):
             download_file(title, link)
     except FileNotFoundError:
         print("README.md file not found. Please ensure the file exists in the current working directory.")

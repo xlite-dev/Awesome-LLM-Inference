@@ -12,7 +12,7 @@
  </div>
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-Diffusion-Inference](https://github.com/xlite-dev/Awesome-Diffusion-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-Diffusion-Inference.svg?style=social). For CUDA learn notes, please check 📖[CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/xlite-dev/CUDA-Learn-Notes.svg?style=social).
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-Diffusion-Inference](https://github.com/xlite-dev/Awesome-Diffusion-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-Diffusion-Inference.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social).
 
 ## ©️Citations
 

@@ -14,6 +14,15 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-DiT-Inference](https://github.com/xlite-dev/Awesome-DiT-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-DiT-Inference.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social).
 
+## 📖 News 🔥🔥
+<div id="news"></div>
+
+- [2025-06-16]: [DBCache: Dual Block Caching](https://github.com/vipshop/DBCache) is release! A **Training-free UNet-style** Cache Acceleration for **Diffusion Transformers**! Feel free to take a try!  
+
+<div align='center'>
+  <img src='https://github.com/user-attachments/assets/a5ec4320-d2f9-4254-888a-170b2d9e3784' height="170px">
+</div>
+
 ## ©️Citations
 
 ```BibTeX

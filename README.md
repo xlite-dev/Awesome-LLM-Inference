@@ -17,7 +17,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## 📖 News 🔥🔥
 <div id="news"></div>
 
-- [2025-06-16]: [🤗CacheDiT](https://github.com/vipshop/cache-dit) is release! A **Training-free** and **Easy-to-use** Cache Acceleration Toolbox for Diffusion Transformers (**DBCache**, **DBPrune**, **FBCache**, etc)🔥. Feel free to take a try!
+- [2025-06-16]: [🤗CacheDiT](https://github.com/vipshop/cache-dit) is release! A **Training-free** and **Easy-to-use** Cache Acceleration Toolbox for Diffusion Transformers (**DBCache**, **DBPrune**, **TaylorSeer**, **FBCache**, etc)🔥. Feel free to take a try!
 
 <div align='center'>
   <img src='https://github.com/user-attachments/assets/a5ec4320-d2f9-4254-888a-170b2d9e3784' height="170px">

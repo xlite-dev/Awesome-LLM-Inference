@@ -19,7 +19,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 - [2025-07-13] **[🤗flux-faster](https://github.com/xlite-dev/flux-faster)** is released! A forked version of [huggingface/flux-fast](https://github.com/huggingface/flux-fast) that **makes flux-fast even faster** with **[cache-dit](https://github.com/vipshop/cache-dit)**, **3.3x** speedup on NVIDIA L20 while still maintaining **high precision**.
   
-- [2025-06-16]: **[🤗cache-dit](https://github.com/vipshop/cache-dit)** is released! A **Training-free** and **Easy-to-use** Cache Acceleration Toolbox for Diffusion Transformers (**DBCache**, **DBPrune**, **TaylorSeer**, **FBCache**, **Cache CFG**, etc)🔥. Feel free to take a try!  
+- [2025-06-16]: **[🤗cache-dit](https://github.com/vipshop/cache-dit)** is released! A **Training-free** and **Easy-to-use** Cache Acceleration Toolbox for DiTs (**DBCache**, **DBPrune**, **TaylorSeer**, **FBCache**, **Cache CFG**, etc)🔥. Feel free to take a try!  
 
 <div align='center'>
   <img src='https://github.com/user-attachments/assets/a5ec4320-d2f9-4254-888a-170b2d9e3784' height="170px">

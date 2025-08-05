@@ -5,14 +5,14 @@
 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/downloads/xlite-dev/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
-  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-LLM-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/downloads/xlite-dev/LLM-Infra/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
+  <img src=https://img.shields.io/github/stars/xlite-dev/LLM-Infra.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v2.6-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[DiT-Infra](https://github.com/xlite-dev/DiT-Infra)  ![](https://img.shields.io/github/stars/xlite-dev/DiT-Infra.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social).
+LLM-Infra: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[DiT-Infra](https://github.com/xlite-dev/DiT-Infra)  ![](https://img.shields.io/github/stars/xlite-dev/DiT-Infra.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social).
 
 ## 📖 News 🔥🔥
 <div id="news"></div>
@@ -28,10 +28,10 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## ©️Citations
 
 ```BibTeX
-@misc{Awesome-LLM-Inference@2024,
-  title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
-  url={https://github.com/xlite-dev/Awesome-LLM-Inference},
-  note={Open-source software available at https://github.com/xlite-dev/Awesome-LLM-Inference},
+@misc{LLM-Infra@2024,
+  title={LLM-Infra: A curated list of Awesome LLM Inference Papers with codes},
+  url={https://github.com/xlite-dev/LLM-Infra},
+  note={Open-source software available at https://github.com/xlite-dev/LLM-Infra},
   author={xlite-dev, liyucheng09 etc},
   year={2024}
 }
@@ -39,10 +39,10 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 🎉Awesome LLM Inference Papers with Codes
 
-[Awesome LLM Inference for Beginners.pdf](https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc.
+[Awesome LLM Inference for Beginners.pdf](https://github.com/xlite-dev/LLM-Infra/releases/download/v0.3/LLM-Infra-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc.
 
 <div align='center'>
-<img src=https://github.com/xlite-dev/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
+<img src=https://github.com/xlite-dev/LLM-Infra/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
 </div>
 
 ## 🎉Download All PDFs
@@ -554,17 +554,14 @@ GNU General Public License v3.0
 
 Welcome to star & submit a PR to this repo!
 
-
-<!--
 <div align='center'>
-  <img width="450" height="250" alt="v02" src="https://github.com/xlite-dev/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
-<a href="https://star-history.com/#xlite-dev/Awesome-LLM-Inference&Date">
+  <img width="450" height="250" alt="v02" src="https://github.com/xlite-dev/LLM-Infra/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
+<a href="https://star-history.com/#xlite-dev/LLM-Infra&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/LLM-Infra&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/LLM-Infra&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/LLM-Infra&type=Date" />
   </picture>
 </a>
 </div>
--->
 

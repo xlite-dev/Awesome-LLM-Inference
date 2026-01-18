@@ -17,10 +17,10 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## 📖 News 🔥🔥
 <div id="news"></div>
 
-- [2026-01-16]: **[🤗Cache-DiT v1.2.0 Major Release](https://github.com/vipshop/cache-dit)** is readly! 🤗Cache-DiT is A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. Feel free to take a try!
+- [2026-01-16]: **[🤗Cache-DiT v1.2.0 Major Release](https://github.com/vipshop/cache-dit)** is ready! 🤗Cache-DiT is A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. Feel free to take a try!
 
 <div align='center'>
-  <img src=https://github.com/vipshop/cache-dit/raw/main/assets/cache-dit-logo-v2.png height=380px>
+  <img src=https://github.com/vipshop/cache-dit/raw/main/assets/cache-dit-logo-v2.png height=320px>
 </div>
 
 

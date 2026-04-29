@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xlite-dev-awesome-llm-inference-badge.png)](https://mseep.ai/app/xlite-dev-awesome-llm-inference)
+
 
 <div align='center'>
   <img src=https://github.com/user-attachments/assets/fcd83ff2-7ace-4fb5-8d3b-3ccbc1ecbf87 width=250px >

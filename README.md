@@ -35,6 +35,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ## 🎉Awesome LLM Inference Papers with Codes
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
+
 [Awesome LLM Inference for Beginners.pdf](https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc.
 
 <div align='center'>

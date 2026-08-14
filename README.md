@@ -573,11 +573,11 @@ Welcome to star & submit a PR to this repo!
 
 <div align='center'>
   <img width="450" height="250" alt="v02" src="https://github.com/xlite-dev/Awesome-LLM-Inference/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
-<a href="https://star-history.com/#xlite-dev/Awesome-LLM-Inference&Date">
+<a href="https://star-history.dera.page/#xlite-dev/Awesome-LLM-Inference&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
   </picture>
 </a>
 </div>

@@ -12,7 +12,7 @@
  </div>
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-DiT-Inference](https://github.com/xlite-dev/Awesome-DiT-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-DiT-Inference.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social).
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome Diffusion Inference, please check 📖[Awesome-DiT-Inference](https://github.com/xlite-dev/Awesome-DiT-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-DiT-Inference.svg?style=social). For CUDA learn notes, please check 📖[LeetCUDA](https://github.com/xlite-dev/LeetCUDA)  ![](https://img.shields.io/github/stars/xlite-dev/LeetCUDA.svg?style=social). For looped and recurrent-depth Transformers, please check 📖[Awesome Loop Transformers](https://github.com/Mrkkew/Awesome-Loop-Transformers)  ![](https://img.shields.io/github/stars/Mrkkew/Awesome-Loop-Transformers.svg?style=social).
 
 ## 📖 News 🔥🔥
 <div id="news"></div>
